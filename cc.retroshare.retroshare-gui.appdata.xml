@@ -4,7 +4,7 @@
   <id>cc.retroshare.retroshare-gui</id>
   <metadata_license>FSFAP</metadata_license>
   <developer id="cc.retroshare">
-    <name>RetroShare Development Team contact@retroshare.cc</name>
+    <name>RetroShare Development Team</name>
   </developer>
   <project_license>AGPL-3.0-only and LGPL-3.0-or-later and GPL-3.0-or-later</project_license>
   <name>RetroShare-gui</name>
@@ -36,6 +36,7 @@
   </kudos>
   <url type="contribute">https://github.com/RetroShare</url>
   <url type="homepage">https://retroshare.cc/</url>
+  <update_contact>contact@retroshare.cc</update_contact>
   <releases>
     <release date="2023-11-28" version="0.6.7.2">
       <description>
